@@ -1,7 +1,15 @@
 # Description
-This is the Reflection Paper prompt for Week [N]. Please reflect about this weeks class. This is meant as a freeform journaling excersise to reflect on your week "in the office" to discuss with your next 1-on-1 with your "manager".
+#### Reflection Paper for Week N: <placeholder/>
+
+Please reflect about this weeks work and knowledge you gained.
+
+### Mental Scenario:
+Build out a journal and journal entry to reflect on your past week (or more) "in the office".
+
+
 
 ### Potential Prompts (pick at least one)
-1. Did you read any of the white papers this manager gave to you for this week? (it's Okay if you didn't). If you did, what are your thoughts on the paper was it helpful in any way? Elaborate.
-2. What is the current status of your team's project? Is there any roadblocks that would be helpful to address.
-3. Did you find any resources that helped you this week to understand the Artificial Intelligence interactions that you and your fellow team members are building?
+1. Did you look into some of the resources this "manager" gave you this week? (It's Okay if you didn't everyone get's busy even the "manager"). If you did, what are your thoughts on those resources, ***were they helpful in any way? Elaborate.***
+2. What is the current status of your team's project? Are there any roadblocks that would be helpful to address.  ***Elaborate.***
+
+3. Did you find any additional resources that helped you this past week to understand the Artificial Intelligence application interactions that you and your fellow team members are building?  ***Elaborate.***
