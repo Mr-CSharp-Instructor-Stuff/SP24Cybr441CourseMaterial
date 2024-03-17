@@ -1,15 +1,14 @@
 # Description
-#### Reflection Paper for Week N: <placeholder/>
+#### Reflection Paper for Week 9: "Case studies of opportunities and challenges for AI"
 
-Please reflect about this weeks work and knowledge you gained.
+Please reflect about this weeks Goal and knowledge you gained.
 
 ### Mental Scenario:
-Build out a journal and journal entry to reflect on your past week (or more) "in the office".
+After your 1-on-1 with management back in Week 7 and after your Holiday in Week 8,management realized implementing an AI solution to solve a problem is challenging. As such they started delving into case studies where AI is lacking, and they want your perspective being the [Doer of Deeds](https://www.goodreads.com/quotes/7-it-is-not-the-critic-who-counts-not-the-man) and the Cyber Difference Maker.
 
+### Prompts (pick at least one)
+1. Do one of the following
+    - Provide a Tech [SWOT Analysis](https://www.mindtools.com/amtbj63/swot-analysis) for where AI in general is and/or where your team's AI project is at.
+    - Create an [SBAR](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/sbar.html) for your team's project if an SBAR is warranted.
 
-
-### Potential Prompts (pick at least one)
-1. Did you look into some of the resources this "manager" gave you this week? (It's Okay if you didn't everyone get's busy even the "manager"). If you did, what are your thoughts on those resources, ***were they helpful in any way? Elaborate.***
-2. What is the current status of your team's project? Are there any roadblocks that would be helpful to address.  ***Elaborate.***
-
-3. Did you find any additional resources that helped you this past week to understand the Artificial Intelligence application interactions that you and your fellow team members are building?  ***Elaborate.***
+2. Did you find any additional resources that you wanted to provide management pertaining to "Case studies of opportunities and challenges for AI"? ***Elaborate***
