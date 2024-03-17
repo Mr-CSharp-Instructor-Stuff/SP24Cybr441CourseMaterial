@@ -15,3 +15,6 @@ This is the collection of material for University of Nebraska Kearney Cybr 441 c
 - [Week 15](./Week%2015/Weekly%20Goals&ActionItems.md)
 - [Week 16](./Week%2016%20-%20Project%20Prez/Weekly%20Goals&ActionItems.md)
 - [Week 17](./Week%2017-Finals/Weekly%20Goals&ActionItems.md)
+
+## Attribution
+All material in this repository is open to be re-used however please give credit where credit is due. If choosing to re-use some or all of the material.
