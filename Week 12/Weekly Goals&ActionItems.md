@@ -1,11 +1,11 @@
 # This Weeks Goals
-Learn about the "prompt"
+Learn about "Identifying Proficient Cybercriminals" and how
 
-{TODO} (Optional) Read [this article/white paper]()
+(Optional) Read [this article/white paper](./Resources&References/Identifying%20Proficient%20Cybercriminals.pdf)
 
 
 # Student Action Items
-[ ] Complete the [Weekly Reflection Paper](./WeeklyReflectionPaper.md)
+[ ] (Graded) Complete the [Weekly Reflection Paper](./WeeklyReflectionPaper.md)
 
 [ ] Two
 
