@@ -11,8 +11,5 @@ No Reflection Entry This Week
 # Student Action Items
 [ ] (Graded) Complete Discussion Board 4 on Canvas (Due 04/07/24)
 
-[ ] Two
-
-[ ] Three
 
 ### [Back to Front](../README.md)
