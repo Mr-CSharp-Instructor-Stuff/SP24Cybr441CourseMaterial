@@ -5,7 +5,7 @@ This is the collection of material for University of Nebraska Kearney Cybr 441 c
 - [General Resources](./General%20Resources/)
 - [Week N Template Dir](./Week%20n/)
 - [Week 7](./Week%207/Weekly%20Goals&ActionItems.md)
-- [Week 8 Spring Break](https://www.youtube.com/watch?v=Ed_clXZlcEU&list=OLAK5uy_l6rQop0nuKaSibD2wIZ8fZcNQF88hHRzI)
+- [Week 8 Spring Break](https://music.youtube.com/watch?v=Ao9X3fcLo3k)
 - [Week 9](./Week%209/Weekly%20Goals&ActionItems.md)
 - [Week 10](./Week%2010/Weekly%20Goals&ActionItems.md)
 - [Week 11](./Week%2011/Weekly%20Goals&ActionItems.md)
