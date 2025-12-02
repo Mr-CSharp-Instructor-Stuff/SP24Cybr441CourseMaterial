@@ -1,9 +1,8 @@
 # SP24Cybr441CourseMaterial
-This is the collection of material for University of Nebraska Kearney Cybr 441 course as it get's refined throughout the semester.
+This is the collection of materials for instructing University of Nebraska Kearney's Artificial Intelligence course CYBR441
 
 ## Table of Contents
 - [General Resources](./General%20Resources/)
-- [Week N Template Dir](./Week%20n/)
 - [Week 7](./Week%207/Weekly%20Goals&ActionItems.md)
 - [Week 8 Spring Break](https://music.youtube.com/watch?v=Ao9X3fcLo3k)
 - [Week 9](./Week%209/Weekly%20Goals&ActionItems.md)
